@@ -7,7 +7,7 @@ const SocialLink = () => {
   return (
     <>
       <section className="container flex max-w-[70vw] flex-col items-center gap-4 rounded-lg bg-[#1F1F1F] px-6 py-6 lg:max-w-[25vw]">
-        <Image src="\src\assets\images\_DSC7798.jpg"></Image>
+        <Image src="/social-links-profile/src/assets/images/_DSC7798.jpg"></Image>
 
         <Name name="Jayash Basnet" address="Lalitpur, Nepal" />
 
