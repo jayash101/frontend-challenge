@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](social-links-profile/src/assets/images/ssDesktop-social-profile-link.png)
+![]([social-links-profile/src/assets/images/ssDesktop-social-profile-link.png](https://github.com/jayash101/frontend-challenge/blob/9a8e5af0ada016900412fbc51f51a2ff195c8289/social-links-profile/src/assets/images/ssDesktop-social-profile-link.png))
 
 ### Links
 
