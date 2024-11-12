@@ -19,7 +19,7 @@ This project demonstrates a React Vite application that allows users to search f
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/lyrics-search-app.git
+git clone https://github.com/jayash101/frontend-challenge.git
 ```
 
 2. Navigate to the project directory:
@@ -48,17 +48,15 @@ npm run dev
 
 1. Enter the artist and song title in the search form.
 2. Click the "Search Lyrics" button.
-3. If lyrics are found, the artist and lyrics will be displayed on the "/lyrics" page.
-4. If no lyrics are found, a message will be displayed.
+3. If lyrics are found, the artist and lyrics will be displayed below.
 
 ### Technologies Used
 
 - React
 - Vite
-- React Router DOM
 - Redux Toolkit
 - React Hook Form
-- Axios
+- Fetch API
 
 ### Contributing
 
