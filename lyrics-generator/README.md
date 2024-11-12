@@ -5,7 +5,6 @@ This project demonstrates a React Vite application that allows users to search f
 ### Features
 
 - Search for lyrics using artist and song title
-- Utilize React Router DOM for routing between search form and results page
 - Manage state with Redux Toolkit
 - Use React Hook Form for user input validation and handling
 - Fetch lyrics data using a third-party API (`https://api.lyrics.ovh/v1/${artist}/${songs}`)
@@ -25,7 +24,7 @@ git clone https://github.com/jayash101/frontend-challenge.git
 2. Navigate to the project directory:
 
 ```bash
-cd lyrics-search-app
+cd frontend-challenge
 ```
 
 3. Install dependencies:
